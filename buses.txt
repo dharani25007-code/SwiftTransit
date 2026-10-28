@@ -1,0 +1,4 @@
+B101,Express Deluxe,Coimbatore,Chennai,21:30,20,650.0
+B102,Night Rider,Coimbatore,Bangalore,22:00,16,550.0
+B103,City Link,Chennai,Madurai,20:15,24,480.0
+B104,Sleeper Plus,Bangalore,Hyderabad,19:45,12,900.0

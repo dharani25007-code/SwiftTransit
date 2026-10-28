@@ -14,7 +14,7 @@
 
 ```
 +---------------------------------------------------------------------------------------------------+
-|                                 SwiftTransit Main Interface                                        |
+|                                 SwiftTransit Main Interface                                       |
 +------------------------------------+----------------------------------+---------------------------+
 |      [1] Search & Book Tickets     |    [2] My Confirmed Bookings     | [3] Database & Admin Hub  |
 +------------------------------------+----------------------------------+---------------------------+
@@ -159,6 +159,7 @@ c:\Users\DHARANIDHARAN\OneDrive\Documents\java\micro\
 ├── run.bat                       # One-Click Automated Build & Execution Batch Script
 ├── README.md                     # Comprehensive Project Documentation
 ├── LICENSE                       # Open-Source MIT License File
+├── .gitignore                    # Git Ignore Configuration
 ├── bus_reservation.db            # Embedded SQLite Database (created on first run)
 ├── sqlite-jdbc-3.36.0.3.jar      # Self-Contained SQLite JDBC Driver
 ├── slf4j-api.jar                 # SLF4J Core API Library
@@ -186,7 +187,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ```
 Copyright (c) 2026 DHARANIDHARAN
 ```#   B U S - R E S E R V A T I O N - S Y S T E M  
- #   B U S - R E S E R V A T I O N - S Y S T E M  
- #   B U S - R E S E R V A T I O N - S Y S T E M  
- #   B U S - R E S E R V A T I O N - S Y S T E M  
  

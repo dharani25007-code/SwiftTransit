@@ -737,7 +737,6 @@ public class BusReservationGUI extends JFrame {
 
     // Modern color palette
     private static final Color PRIMARY = new Color(37, 99, 235);       // Royal Blue
-    private static final Color PRIMARY_DARK = new Color(29, 78, 216);
     private static final Color SUCCESS = new Color(22, 163, 74);        // Emerald Green
     private static final Color DANGER = new Color(220, 38, 38);         // Crimson Red
     private static final Color WARNING = new Color(217, 119, 6);        // Amber Orange
